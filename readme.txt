@@ -4,3 +4,4 @@ aaa
 branch dev
 branch other dev1
 branch dev1
+other branch dev
